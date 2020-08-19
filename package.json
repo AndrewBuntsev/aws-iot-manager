@@ -1,0 +1,18 @@
+{
+  "name": "aws-iot-manager",
+  "version": "1.0.0",
+  "description": "Tronac Full Stack Developer Technical Test",
+  "main": "tronacAWSIot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrei Buntsev",
+  "license": "ISC",
+  "dependencies": {
+    "aws-iot-device-sdk": "2.2.6",
+    "aws-sdk": "2.734.0",
+    "dotenv": "8.2.0",
+    "winston": "3.2.1",
+    "winston-daily-rotate-file": "4.2.1"
+  }
+}
